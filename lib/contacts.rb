@@ -26,3 +26,4 @@ contacts.each do |person, information|
     end
   end
 end
+end
